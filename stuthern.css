@@ -1,0 +1,53 @@
+.form{
+    
+    margin: auto;
+    max-width: 300px;
+    border-color: grey;
+    border-style: solid;
+    border-width: 1px;
+    border-top: 2px solid lightseagreen;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    outline: 3px solid gray;
+
+}
+
+h1{color: lightseagreen;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: gray;
+}
+ 
+p{
+    text-align: center;
+    color: lightseagreen;
+}
+.A{ 
+    width: 285px;
+    padding: 5px;
+    background-color: lightgray
+}
+.B{
+    width: 285px;
+    padding: 5px;
+    background-color: lightgray
+}
+.C{
+    width: 285px;
+    padding: 5px;
+    background-color: lightseagreen;
+    
+}
+.D{
+    width: 285px;
+    padding: 5px;
+    border:1px solid lightseagreen;
+    color: lightseagreen;
+    background-color: w;
+}
+
+.l {
+    color: lightseagreen;
+}
